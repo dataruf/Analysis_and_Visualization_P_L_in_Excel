@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/810158cc-efce-4d16-8c8f-0e98303b8cb9)
- Case Description
+
+ <img width="1015" height="608" alt="oie_xVZTXqDKiKbf" src="https://github.com/user-attachments/assets/a0be95fd-c9a7-415b-86a8-a441fcd721a3" />
+Case Description
 
 Bloomberg terminals are a powerful tool in the hands of financial professionals.
 But the data downloaded from there requires significant polishing and formatting before it can be presented to decision-makers.
